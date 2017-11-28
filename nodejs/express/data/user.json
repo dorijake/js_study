@@ -1,0 +1,14 @@
+{
+	"first_user": {
+		"password": "first_pass",
+		"name": "abet"
+	},
+	"newuser": {
+		"password": "newpass2",
+		"name": "jake"
+	},
+	"bluejake": {
+		"password": "123",
+		"name": "jake"
+	}
+}
