@@ -35,15 +35,17 @@ ________
 ###컴포넌트 구조
 _______________
 App  
-└Header  
-└PostContainer
->└PostWrapper
->>└Navigator  
-└Post  
->>>└CommentList  
->>>>└Comment
+>└Header
 >
->>└Warning  
+>└PostContainer
+>>└PostWrapper
+>>>└Navigator
+>
+>>>└Post  
+>>>>└CommentList  
+>>>>>└Comment
+>
+>>>└Warning  
 
 
 
