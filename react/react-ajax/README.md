@@ -34,9 +34,8 @@ ________
 
 ###컴포넌트 구조
 _______________
-App
-
-└Header
+App  
+└Header  
 └PostContainer  
   └PostWrapper  
     └Navigator  
