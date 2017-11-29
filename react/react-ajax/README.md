@@ -38,19 +38,13 @@ App
 
 └Header
 
-└PostContainer
-
-  └PostWrapper
-  
-    └Navigator
-    
-    └Post
-    
-      └CommentList
-      
-        └Comment
-        
-    └Warning
+└PostContainer  
+  └PostWrapper  
+    └Navigator  
+    └Post  
+      └CommentList  
+        └Comment  
+    └Warning  
 
 
 
