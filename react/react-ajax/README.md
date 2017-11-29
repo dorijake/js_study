@@ -38,8 +38,8 @@ App
 └Header
 └PostContainer
 >└PostWrapper
->>└Navigator
->>└Post  
+>>└Navigator  
+└Post  
 >>>└CommentList  
 >>>>└Comment
 >
